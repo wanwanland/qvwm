@@ -1,0 +1,7 @@
+1.2.0
+
+- Menu::PopupMenu() で ExecFunction になっていない
+  + startmenu の子のイメージサイズがおかしくなる
+
+- Menu::Button1Release() で ExecFunction になっていない
+  + iconmenu の機能が実行されない

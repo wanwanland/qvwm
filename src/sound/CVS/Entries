@@ -1,0 +1,20 @@
+/Audio.cc/1.1.1.1/Fri Feb  3 20:59:09 2006//
+/Audio.h/1.1.1.1/Fri Feb  3 20:59:04 2006//
+/AudioAu.cc/1.1.1.1/Fri Feb  3 20:59:09 2006//
+/AudioAu.h/1.1.1.1/Fri Feb  3 20:59:12 2006//
+/AudioDev.cc/1.1.1.1/Fri Feb  3 20:59:12 2006//
+/AudioDev.h/1.1.1.1/Fri Feb  3 20:59:09 2006//
+/AudioDevAlsa.cc/1.1.1.1/Fri Feb  3 20:59:04 2006//
+/AudioDevAlsa.h/1.1.1.1/Fri Feb  3 20:59:06 2006//
+/AudioDevEsd.cc/1.1.1.1/Fri Feb  3 20:59:06 2006//
+/AudioDevEsd.h/1.1.1.1/Fri Feb  3 20:59:06 2006//
+/AudioDevOss.cc/1.1.1.1/Fri Feb  3 20:59:12 2006//
+/AudioDevOss.h/1.1.1.1/Fri Feb  3 20:59:09 2006//
+/AudioDevSun.cc/1.1.1.1/Fri Feb  3 20:59:12 2006//
+/AudioDevSun.h/1.1.1.1/Fri Feb  3 20:59:09 2006//
+/AudioWav.cc/1.1.1.1/Fri Feb  3 20:59:06 2006//
+/AudioWav.h/1.1.1.1/Fri Feb  3 20:59:09 2006//
+/Makefile/1.1.1.1/Fri Feb  3 20:59:04 2006//
+/Makefile.am/1.1.1.1/Fri Feb  3 20:59:06 2006//
+/Makefile.in/1.1.1.1/Fri Feb  3 20:59:06 2006//
+D

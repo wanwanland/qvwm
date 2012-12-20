@@ -1,0 +1,6 @@
+
+# cvs
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore
