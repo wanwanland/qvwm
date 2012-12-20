@@ -4,3 +4,26 @@
 */CVS/*
 .cvsignore
 */.cvsignore
+
+# modified by configure
+Makefile
+config.h
+config.log
+config.status
+doc/Makefile
+images/Makefile
+man/Makefile
+rc/Makefile
+sounds/Makefile
+src/Makefile
+src/bitmaps/Makefile
+
+# added by configure
+man/qvwm.1x
+rc/french.qvwmrc
+rc/german.qvwmrc
+rc/italian.qvwmrc
+rc/kanji.qvwmrc
+rc/light.qvwmrc
+rc/portuguese.qvwmrc
+rc/system.qvwmrc
