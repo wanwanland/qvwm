@@ -26,7 +26,7 @@
 #include <string.h>
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
-#include <X11/Xlocale.h>
+#include <stddef.h>
 #include "main.h"
 #include "util.h"
 #include "taskbar.h"
@@ -41,6 +41,7 @@
 #include "accessory.h"
 #include "timer.h"
 #include "function.h"
+#include "xlocale.h"
 
 static Hash<VariableTable>*	varHashTable;
 

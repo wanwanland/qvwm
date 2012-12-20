@@ -26,7 +26,8 @@
 #include <unistd.h>
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
-#include <X11/Xlocale.h>
+// #include <X11/Xlocale.h>
+#include "xlocale.h"
 #include "main.h"
 #include "window/qvwm.h"
 #include "taskbar/taskbar.h"
